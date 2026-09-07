@@ -1,7 +1,7 @@
 # 🌉 MCP Bridges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Platforms](https://img.shields.io/badge/Platforms-Claude_Code_•_Google_Antigravity_•_Cursor_•_Codex-8A2BE2)](#-universal-installation)
+[![Platforms](https://img.shields.io/badge/Platforms-Claude_•_Grok_•_Gemini_•_Cursor_•_Codex-8A2BE2)](#-universal-installation)
 [![Dual-OS](https://img.shields.io/badge/Dual--OS-Windows_•_macOS_•_Linux-success)](#-dual-os-cross-platform-architecture)
 [![Verification](https://img.shields.io/badge/Protocol-BoostX_Verified_✓-emerald)](#-the-boostx-engineering-discipline)
 
@@ -12,24 +12,19 @@
 
 ## 🚀 Universal 1-Line Installation
 
-Install all MCP bridges into your AI agent with a single command:
+Clone this repo into **your host's skill root** (same idea as [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v1.0.0)).
 
-### 1. Claude Code (CLI)
+| Host | Typical skill root |
+|:---|:---|
+| Claude Code | `~/.claude/skills` |
+| Grok | `$GROK_HOME/skills` or `~/.grok/skills` |
+| Gemini / Antigravity | `~/.gemini/config/skills` |
+| Project (Cursor, Codex, many IDEs) | `.agents/skills` |
+
 ```bash
 git clone https://github.com/napattan/mcp-bridges.git ~/.claude/skills
-```
-
-### 2. Google Antigravity / Gemini Code Assist
-```bash
-# Windows PowerShell
-git clone https://github.com/napattan/mcp-bridges.git "$env:USERPROFILE\.gemini\config\skills"
-
-# macOS / Linux
+git clone https://github.com/napattan/mcp-bridges.git ~/.grok/skills
 git clone https://github.com/napattan/mcp-bridges.git ~/.gemini/config/skills
-```
-
-### 3. Workspace-Local (Any AI IDE: Cursor, Windsurf, Codex, Antigravity)
-```bash
 git clone https://github.com/napattan/mcp-bridges.git .agents/skills
 ```
 
