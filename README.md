@@ -86,7 +86,7 @@ mcp-bridges/
 ## 🔗 Related Toolkits
 
 Looking for high-discipline developer protocols and agent reasoning tools? Check out:
-* ⚡ **[agent-skills](https://github.com/napattan/agent-skills)**: Core developer engineering protocols (`/boostx`, `/create-skill`, `/update-doc`).
+* **[agent-skills v1.0.0](https://github.com/napattan/agent-skills/releases/tag/v1.0.0)**: Portable `/boostx`, `/create-skill`, `/update-doc`, `/publish-audit`, `/publish-qgis`.
 
 ---
 
