@@ -12,7 +12,7 @@
 
 ## 🚀 Universal 1-Line Installation
 
-Clone this repo into **your host's skill root** (same idea as [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v1.0.0)).
+Clone this repo into **your host's skill root** (same idea as [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v1.1.0)).
 
 | Host | Typical skill root |
 |:---|:---|
@@ -86,7 +86,7 @@ mcp-bridges/
 ## 🔗 Related Toolkits
 
 Looking for high-discipline developer protocols and agent reasoning tools? Check out:
-* **[agent-skills v1.0.0](https://github.com/napattan/agent-skills/releases/tag/v1.0.0)**: Portable `/boostx`, `/create-skill`, `/update-doc`, `/publish-audit`, `/publish-qgis`.
+* **[agent-skills v1.1.0](https://github.com/napattan/agent-skills/releases/tag/v1.1.0)**: Portable `/boostx`, `/brief`, `/create-skill`, `/update-doc`, `/publish-audit`, `/publish-qgis`.
 
 ---
 
